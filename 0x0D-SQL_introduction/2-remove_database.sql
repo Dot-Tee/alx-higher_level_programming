@@ -1,1 +1,0 @@
-readme on sql intro
