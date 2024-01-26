@@ -4,8 +4,6 @@ This script fetches the status from https://alx-intranet.hbtn.io/status using ur
 """
 
 import urllib.request
-
-def fetch_status():
     """
     Fetches the status from https://alx-intranet.hbtn.io/status and displays the body response.
     """
