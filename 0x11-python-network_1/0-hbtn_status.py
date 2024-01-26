@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Fetches https://alx-intranet.hbtn.io/status."""
+"""It fetches https://alx-intranet.hbtn.io/status, and print the body"""
 import urllib.request
 
 
